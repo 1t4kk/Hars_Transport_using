@@ -83,7 +83,7 @@
     "priceY1": "8.4",
     "halfpriceY1": "4.2"
   },
- {
+  {
     "number": 7,
     "route": "125",
     "destZ": "TLE",
@@ -95,7 +95,7 @@
     "priceY1": "8.4",
     "halfpriceY1": "4.2"
   },
- {
+  {
     "number": 8,
     "route": "125P",
     "destZ": "TLE",
@@ -107,7 +107,7 @@
     "priceY1": "8.4",
     "halfpriceY1": "4.2"
   },
- {
+  {
     "number": 9,
     "route": "N30",
     "destZ": "MMT",
