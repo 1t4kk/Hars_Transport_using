@@ -1,0 +1,122 @@
+[
+  {
+    "number": 0,
+    "route": "HT",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "3",
+    "destZ": "SYE",
+    "destY": "TPSC",
+    "maxPZ": "1",
+    "priceZ1": "3.8",
+    "halfpriceZ1": "1.9",
+    "maxPY": "1",
+    "priceY1": "3.8",
+    "halfpriceY1": "1.9"
+  },
+  {
+    "number": 2,
+    "route": "7",
+    "destZ": "SYE",
+    "destY": "VIC",
+    "maxPZ": "1",
+    "priceZ1": "10.4",
+    "halfpriceZ1": "5.2",
+    "maxPY": "1",
+    "priceY1": "10.4",
+    "halfpriceY1": "5.2"
+  },
+  {
+    "number": 3,
+    "route": "7X",
+    "destZ": "SYE",
+    "destY": "VIC",
+    "maxPZ": "1",
+    "priceZ1": "10.4",
+    "halfpriceZ1": "5.2",
+    "maxPY": "1",
+    "priceY1": "10.4",
+    "halfpriceY1": "5.2"
+  },
+  {
+    "number": 4,
+    "route": "11",
+    "destZ": "SYE",
+    "destY": "SOB",
+    "maxPZ": "1",
+    "priceZ1": "3.2",
+    "halfpriceZ1": "1.6",
+    "maxPY": "1",
+    "priceY1": "3.2",
+    "halfpriceY1": "1.6"
+  },
+  {
+    "number": 5,
+    "route": "30",
+    "destZ": "MMS",
+    "destY": "TPSC",
+    "maxPZ": "1",
+    "priceZ1": "10.0",
+    "halfpriceZ1": "5.0",
+    "maxPY": "1",
+    "priceY1": "10.0",
+    "halfpriceY1": "5.0"
+  },
+  {
+    "number": 6,
+    "route": "124",
+    "destZ": "TLE",
+    "destY": "TPWS",
+    "maxPZ": "1",
+    "priceZ1": "8.4",
+    "halfpriceZ1": "4.2",
+    "maxPY": "1",
+    "priceY1": "8.4",
+    "halfpriceY1": "4.2"
+  },
+ {
+    "number": 7,
+    "route": "125",
+    "destZ": "TLE",
+    "destY": "WLC",
+    "maxPZ": "1",
+    "priceZ1": "8.4",
+    "halfpriceZ1": "4.2",
+    "maxPY": "1",
+    "priceY1": "8.4",
+    "halfpriceY1": "4.2"
+  },
+ {
+    "number": 8,
+    "route": "125P",
+    "destZ": "TLE",
+    "destY": "TPWS",
+    "maxPZ": "1",
+    "priceZ1": "8.4",
+    "halfpriceZ1": "4.2",
+    "maxPY": "1",
+    "priceY1": "8.4",
+    "halfpriceY1": "4.2"
+  },
+ {
+    "number": 9,
+    "route": "N30",
+    "destZ": "MMT",
+    "destY": "TSPE",
+    "maxPZ": "1",
+    "priceZ1": "14.8",
+    "halfpriceZ1": "7.4",
+    "maxPY": "1",
+    "priceY1": "14.8",
+    "halfpriceY1": "7.4"
+  }
+]
