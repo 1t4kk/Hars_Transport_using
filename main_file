@@ -13,18 +13,6 @@
   },
   {
     "number": 1,
-    "route": "3",
-    "destZ": "SYE",
-    "destY": "TPSC",
-    "maxPZ": "1",
-    "priceZ1": "3.8",
-    "halfpriceZ1": "1.9",
-    "maxPY": "1",
-    "priceY1": "3.8",
-    "halfpriceY1": "1.9"
-  },
-  {
-    "number": 2,
     "route": "7",
     "destZ": "SYE",
     "destY": "VIC",
@@ -36,7 +24,7 @@
     "halfpriceY1": "5.2"
   },
   {
-    "number": 3,
+    "number": 2,
     "route": "7X",
     "destZ": "SYE",
     "destY": "VIC",
@@ -48,7 +36,7 @@
     "halfpriceY1": "5.2"
   },
   {
-    "number": 4,
+    "number": 3,
     "route": "11",
     "destZ": "SYE",
     "destY": "SOB",
@@ -60,7 +48,7 @@
     "halfpriceY1": "1.6"
   },
   {
-    "number": 5,
+    "number": 4,
     "route": "30",
     "destZ": "MMS",
     "destY": "TPSC",
@@ -72,7 +60,7 @@
     "halfpriceY1": "5.0"
   },
   {
-    "number": 6,
+    "number": 5,
     "route": "124",
     "destZ": "TLE",
     "destY": "TPWS",
@@ -84,7 +72,7 @@
     "halfpriceY1": "4.2"
   },
   {
-    "number": 7,
+    "number": 6,
     "route": "125",
     "destZ": "TLE",
     "destY": "WLC",
@@ -96,7 +84,7 @@
     "halfpriceY1": "4.2"
   },
   {
-    "number": 8,
+    "number": 7,
     "route": "125P",
     "destZ": "TLE",
     "destY": "TPWS",
@@ -108,7 +96,7 @@
     "halfpriceY1": "4.2"
   },
   {
-    "number": 9,
+    "number": 8,
     "route": "N30",
     "destZ": "MMT",
     "destY": "TSPE",
