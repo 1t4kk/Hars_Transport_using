@@ -3,7 +3,7 @@
     "route": "0",
     "direction": 0,
     "NextStop": 1,
-    "Chi": "歡迎乘搭Hars Bus",
+    "Chi": "歡迎乘搭HT",
     "ChiTime": 5,
     "Eng": "WELCOME ONBOARD",
     "EngTime": 5,
@@ -13,9 +13,9 @@
   },
    {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 1,
-    "Chi": "歡迎乘搭Hars Bus",
+    "Chi": "歡迎乘搭HT",
     "ChiTime": 5,
     "Eng": "WELCOME ONBOARD",
     "EngTime": 5,
@@ -25,7 +25,7 @@
   },
 {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭Hars Bus",
     "ChiTime": 10,
@@ -37,7 +37,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 3,
     "Chi": "艾爾十字路口",
     "ChiTime": 5,
@@ -49,7 +49,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 4,
     "Chi": "淵湖街",
     "ChiTime": 4,
@@ -61,7 +61,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 5,
     "Chi": "軒雅苑",
     "ChiTime": 6,
@@ -73,7 +73,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 6,
     "Chi": "裕彩南街",
     "ChiTime": 3,
@@ -85,7 +85,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 7,
     "Chi": "慈蒲山東",
     "ChiTime": 3,
@@ -97,7 +97,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 8,
     "Chi": "慈蒲山邨蒲昇樓",
     "ChiTime": 6,
@@ -109,7 +109,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 9,
     "Chi": "慈蒲山(中)",
     "ChiTime": 6,
@@ -121,7 +121,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 10,
     "Chi": "慈蒲山邨蒲寶樓",
     "ChiTime": 6,
@@ -133,7 +133,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 11,
     "Chi": "霍斯圖書館",
     "ChiTime": 5,
@@ -145,7 +145,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 12,
     "Chi": "雅旎街",
     "ChiTime": 4,
@@ -157,7 +157,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 13,
     "Chi": "立方天際",
     "ChiTime": 4,
@@ -169,7 +169,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 14,
     "Chi": "牧永花園",
     "ChiTime": 3,
@@ -181,7 +181,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 15,
     "Chi": "白濱閣",
     "ChiTime": 5,
@@ -193,7 +193,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 16,
     "Chi": "華龍院",
     "ChiTime": 4,
@@ -205,7 +205,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 17,
     "Chi": "星湖域區電力站",
     "ChiTime": 4,
@@ -217,7 +217,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 18,
     "Chi": "南裇商場",
     "ChiTime": 4,
@@ -229,7 +229,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 19,
     "Chi": "泥田轉車站",
     "ChiTime": 4,
@@ -241,7 +241,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 20,
     "Chi": "新涌",
     "ChiTime": 3,
@@ -253,7 +253,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 21,
     "Chi": "六角中心",
     "ChiTime": 4,
@@ -265,7 +265,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 22,
     "Chi": "湖竇",
     "ChiTime": 3,
@@ -277,7 +277,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 23,
     "Chi": "呂園道",
     "ChiTime": 5,
@@ -289,7 +289,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 24,
     "Chi": "遠水灣",
     "ChiTime": 4,
@@ -301,7 +301,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 25,
     "Chi": "殿舂閣",
     "ChiTime": 5,
@@ -313,7 +313,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 26,
     "Chi": "湖翠",
     "ChiTime": 4,
@@ -325,7 +325,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 27,
     "Chi": "近水灣海灘",
     "ChiTime": 4,
@@ -337,7 +337,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 28,
     "Chi": "近水灣道269號",
     "ChiTime": 5,
@@ -349,7 +349,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 29,
     "Chi": "李樂多道",
     "ChiTime": 4,
@@ -361,7 +361,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 30,
     "Chi": "春風小屋",
     "ChiTime": 3,
@@ -373,7 +373,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 31,
     "Chi": "春風道",
     "ChiTime": 4,
@@ -385,7 +385,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 32,
     "Chi": "高爾斯林別墅",
     "ChiTime": 4,
@@ -397,7 +397,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 33,
     "Chi": "鴿日夕",
     "ChiTime": 4,
@@ -409,7 +409,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 34,
     "Chi": "海逸邨逸嫿樓",
     "ChiTime": 4,
@@ -421,7 +421,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 35,
     "Chi": "海逸邨逸津樓",
     "ChiTime": 5,
@@ -433,7 +433,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 36,
     "Chi": "城牆",
     "ChiTime": 3,
@@ -445,7 +445,7 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 37,
     "Chi": "尚翠",
     "ChiTime": 3,
@@ -457,9 +457,9 @@
   },
   {
     "route": "7",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 38,
-    "Chi": "多謝選乘豬怕巴士",
+    "Chi": "多謝選乘HT",
     "ChiTime": 5,
     "Eng": "THANK YOU\nFOR TRAVELLING",
     "EngTime": 4,
