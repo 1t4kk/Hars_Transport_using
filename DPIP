@@ -504,7 +504,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "77",
     "direction": 0,
     "NextStop": 4,
     "Chi": "駿田商場",
@@ -516,7 +516,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": " 7",
     "direction": 0,
     "NextStop": 5,
     "Chi": "沙嶺邨",
@@ -528,7 +528,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 6,
     "Chi": "馬嶺邨",
@@ -540,7 +540,7 @@
     "Notification": 1
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 7,
     "Chi": "馬嶺站",
@@ -552,7 +552,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 8,
     "Chi": "馬奶邨",
@@ -564,7 +564,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 9,
     "Chi": "馬嶺醫院",
@@ -576,7 +576,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 10,
     "Chi": "沙怡隧道轉乘站",
@@ -588,7 +588,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 11,
     "Chi": "順怡大廈",
@@ -600,7 +600,7 @@
     "Notification": 1
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 12,
     "Chi": "松下樓",
@@ -612,7 +612,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 13,
     "Chi": "松蔭邨",
@@ -624,7 +624,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 14,
     "Chi": "松蔭(東)邨",
@@ -636,7 +636,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 15,
     "Chi": "松泰樓",
@@ -648,7 +648,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 16,
     "Chi": "康凱苑",
@@ -660,7 +660,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 17,
     "Chi": "政府設施中心",
@@ -672,7 +672,7 @@
     "Notification": 1
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 18,
     "Chi": "松晴邨",
@@ -684,7 +684,7 @@
     "Notification": 1
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 19,
     "Chi": "甘怡軍營",
@@ -696,7 +696,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 20,
     "Chi": "甘怡站",
@@ -708,7 +708,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 21,
     "Chi": "中國武漢肺炎",
@@ -720,7 +720,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 22,
     "Chi": "順興工業大廈",
@@ -732,7 +732,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 23,
     "Chi": "甘泉停車場",
@@ -744,7 +744,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 24,
     "Chi": "甘泉道",
@@ -756,7 +756,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 25,
     "Chi": "錦興路",
@@ -768,7 +768,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 26,
     "Chi": "甘泉市中心",
@@ -780,7 +780,7 @@
     "Notification": 0
   },
   {
-    "route": "N247",
+    "route": "7",
     "direction": 0,
     "NextStop": 27,
     "Chi": "多謝選乘豬怕巴士",
